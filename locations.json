@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Lynn Location",
+    "street_address": "333 Wallcreek st.",
+    "city": "Lynn",
+    "state": "MA",
+    "zip": "06546",
+    "phone": "777 888 1234"
+  },
+  {
+    "id": 1,
+    "name": "Lynn Location",
+    "street_address": "333 Wallcreek st.",
+    "city": "Lynn",
+    "state": "MA",
+    "zip": "06546",
+    "phone": "777 888 1234"
+  },
+  {
+    "id": 1,
+    "name": "Lynn Location",
+    "street_address": "333 Wallcreek st.",
+    "city": "Lynn",
+    "state": "MA",
+    "zip": "06546",
+    "phone": "777 888 1234"
+  }
+]
